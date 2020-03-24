@@ -5,5 +5,5 @@ About industrial production
 на основе файла "Stat_industry.pptx".
 
 Актуальные данные берутся с сайта https://arhangelskstat.gks.ru/news/
-Поиск осуществляется по тегу а:
+Поиск осуществляется по тегу <а>:
 a_tag = news('промышленном производстве')
