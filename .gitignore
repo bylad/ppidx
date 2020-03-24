@@ -1,3 +1,14 @@
+# BEGIN my add
+# Vim temp files
+*.un~
+
+# Ignore folders and files (Windows)
+2018/
+2019/
+owd/
+~$*
+# END my add
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
