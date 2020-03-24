@@ -6,8 +6,10 @@
 # Ignore folders and files (Windows)
 2018/
 2019/
+2020/
 owd/
 ~$*
+Stat_industry_202*
 #-----------------------
 # END my add
 
