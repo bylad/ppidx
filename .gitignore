@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-=======
 # BEGIN my add
->>>>>>> ea88cccb65e53c7cac4851d151a96716a99092f8
+#-----------------------
 # Vim temp files
 *.un~
 
@@ -10,13 +8,10 @@
 2019/
 owd/
 ~$*
-<<<<<<< HEAD
-
-#from python default .gitignore
-=======
+#-----------------------
 # END my add
 
->>>>>>> ea88cccb65e53c7cac4851d151a96716a99092f8
+#from python default .gitignore
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
