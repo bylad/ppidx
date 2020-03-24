@@ -1,0 +1,12 @@
+# Vim temp files
+*.un~
+
+# Ignore folders and files (Windows)
+__pycache__/
+2018/
+2019/
+build/
+dist/
+owd/
+*.spec
+~$*
